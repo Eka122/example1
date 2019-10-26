@@ -12,3 +12,4 @@ if (isset($_GET['id'])) {
             break;
     }
 }
+echo "Привет зяблы";
